@@ -1,18 +1,13 @@
 {
-  "name": "bajaj-finserv",
+  "name": "Bajaj-Finserv",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000B\u0000a\u0000j\u0000a\u0000j\u0000-\u0000F\u0000i\u0000n\u0000s\u0000e\u0000r\u0000v\u0000-\u0000q\u00001\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "axios": "^1.13.5",
-    "cors": "^2.8.6",
-    "dotenv": "^17.2.4",
-    "express": "^5.2.1"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.18.2"
   }
 }
